@@ -1,7 +1,7 @@
 #! /usr/bin/python3
 # Author: Maximilian Muth <mail@maxi-muth.de>
 # https://github.com/mammuth/bing-wallpaper
-# Version: 1.0
+# Version: 2.0
 # License: GPL-2.0
 # Description: Downloads the Bing picture of the Day and sets it as wallpaper (Linux / Windows).
 
